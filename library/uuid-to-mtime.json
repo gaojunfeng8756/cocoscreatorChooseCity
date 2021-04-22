@@ -25,8 +25,8 @@
     "relativePath": "Texture"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1618482052000,
-    "meta": 1619100320259,
+    "asset": 1619102731191,
+    "meta": 1619102731198,
     "relativePath": "Scene/helloworld.fire"
   },
   "a8027877-d8d6-4645-97a0-52d4a0123dba": {
@@ -45,8 +45,8 @@
     "relativePath": "Script/Helloworld.ts"
   },
   "3ddb3232-e7d8-4533-bc83-2c4ea2f946b5": {
-    "asset": 1618481982000,
-    "meta": 1619100320051,
+    "asset": 1619102699537,
+    "meta": 1619102699545,
     "relativePath": "Scene/cityChoose.prefab"
   },
   "10e42d9b-d99e-4b4e-9702-3ea40ebad2f3": {
