@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/migration/use_v2.1-2.2.1_cc.Toggle_event":1,"./assets/Script/Helloworld":2,"./assets/Script/ChooseCityPop":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.1-2.2.1_cc.Toggle_event.js"},{"deps":{},"path":"preview-scripts/assets/Script/Helloworld.js"},{"deps":{},"path":"preview-scripts/assets/Script/ChooseCityPop.js"}];
+var scripts = [{"deps":{"./assets/Script/ChooseCityPop":1,"./assets/Script/Helloworld":2,"./assets/migration/use_v2.1-2.2.1_cc.Toggle_event":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/Script/ChooseCityPop.js"},{"deps":{},"path":"preview-scripts/assets/Script/Helloworld.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.1-2.2.1_cc.Toggle_event.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

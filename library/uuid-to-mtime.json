@@ -25,8 +25,8 @@
     "relativePath": "Texture"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1619102731191,
-    "meta": 1619102731198,
+    "asset": 1619103962980,
+    "meta": 1619103962986,
     "relativePath": "Scene/helloworld.fire"
   },
   "a8027877-d8d6-4645-97a0-52d4a0123dba": {
@@ -45,24 +45,9 @@
     "relativePath": "Script/Helloworld.ts"
   },
   "3ddb3232-e7d8-4533-bc83-2c4ea2f946b5": {
-    "asset": 1619102699537,
-    "meta": 1619102699545,
+    "asset": 1619103949777,
+    "meta": 1619103949784,
     "relativePath": "Scene/cityChoose.prefab"
-  },
-  "10e42d9b-d99e-4b4e-9702-3ea40ebad2f3": {
-    "asset": 1618213494000,
-    "meta": 1619100320272,
-    "relativePath": "Texture/bg_1.png"
-  },
-  "0ede56e8-885e-4d57-a36f-c7b1f6b33dc6": {
-    "asset": 1618213494000,
-    "meta": 1619100320274,
-    "relativePath": "Texture/bt_un.png"
-  },
-  "b7780ec1-81de-44d6-92d4-93095a05ff32": {
-    "asset": 1618213494000,
-    "meta": 1619100320285,
-    "relativePath": "Texture/bt_yellow_n.png"
   },
   "710a7814-463b-47e9-9d68-8f94edfc7b55": {
     "asset": 1618481794000,
